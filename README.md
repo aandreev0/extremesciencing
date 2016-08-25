@@ -5,6 +5,8 @@ This page describes set of principles we try to follow in our day to day science
 
 We try to follow these methods ourselves and implement them in our teams
 
+Latest version can be found and forked on: https://github.com/aandreev0/extremesciencing
+
 ## Key elements
  * Agile: main goal is successful research, not following some sort of "best practices" list
  * Rapid: We aim to move swiftly through the project, figuring bottlenecks as soon as possible
