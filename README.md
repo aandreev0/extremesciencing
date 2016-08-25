@@ -1,0 +1,2 @@
+# extremesciencing
+Extreme Sciencing manifesto
